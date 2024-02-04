@@ -47,10 +47,6 @@ body {
   color: var(--second-font-color);
 }
 
-.debug {
-  border: 1px solid red;
-}
-
 body {
   display: flex;
   width: 100vw;
